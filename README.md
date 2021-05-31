@@ -12,3 +12,7 @@ The workspace contains two folders by default, where:
 ## Dependency Management
 
 The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+
+
+Ebank, Made possible by Ismail AMMOR, A student in Paris during his master degree.
+this application containt a Home / login / register windows, in addition of a managing account window, containt certain logic and a lot of work on the design. 
